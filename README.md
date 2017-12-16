@@ -1,2 +1,2 @@
 # day1
-this si my first github project
+this is my first github project
